@@ -1,4 +1,4 @@
-// Commentaire 
-export class Test {
-    readonly i : number ; 
+// Commentaire
+export class Test{
+    
 }
